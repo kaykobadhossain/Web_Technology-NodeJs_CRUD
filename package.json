@@ -1,0 +1,11 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "start": "nodemon first.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
